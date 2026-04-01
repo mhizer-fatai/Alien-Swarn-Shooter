@@ -14,6 +14,7 @@
     "@google/genai": "^1.29.0",
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
     "genlayer-js": "^0.27.3",
@@ -21,6 +22,7 @@
     "motion": "^12.23.24",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.3",
     "vite": "^6.2.0"
   },
